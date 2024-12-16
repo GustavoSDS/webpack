@@ -18,12 +18,12 @@ Es flexible, eficiente y fácil de personalizar.
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/GustavoSDS/webpack-config.git
    ```
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd webpack-standard-config
+   cd webpack-config
    ```
 
 3. Instala las dependencias:
