@@ -6,7 +6,7 @@ Es flexible, eficiente y fácil de personalizar.
 ## Características principales
 
 - **Módulos modernos:** Soporte para TypeScript y ES Modules.
-- **CSS y Preprocesadores:** Compatibilidad con CSS.
+- **CSS:** Compatibilidad con CSS.
 - **Optimización:** Minificación, división de código y carga diferida (lazy loading).
 - **Archivos estáticos:** Soporte para imágenes.
 - **Servidor de desarrollo:** Recarga en caliente con Webpack Dev Server.
